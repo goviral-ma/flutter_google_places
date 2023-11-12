@@ -11,7 +11,11 @@ dependencies:
   flutter:
     sdk: flutter
   
-  google_api_headers: 1.1.0
+  google_api_headers: 
+    git:
+      url: https://github.com/goviral-ma/google_api_headers.git
+      ref: ebae8cb1cd5c3befac23865150ab396507dba769
+  
   google_maps_webservice: ^0.0.19
   http: ">=0.11.0 <1.0.0"
   rxdart: ^0.25.0
