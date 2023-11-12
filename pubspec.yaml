@@ -15,7 +15,7 @@ dependencies:
   google_maps_webservice:
     git:
       url: https://github.com/goviral-ma/google_maps_webservice.git
-      ref: 074be79bc507f061215390c5ca3f63c329e81b5e
+      ref: 2aac9a4438aebe4a10695cafbc3caa214a6516b9
   http: ^0.12.2
   rxdart: ^0.27.5
 
