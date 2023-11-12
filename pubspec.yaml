@@ -4,7 +4,7 @@ version: 0.4.0
 repository: https://github.com/fluttercommunity/flutter_google_places
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: '>=2.12.0 <3.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
@@ -15,8 +15,8 @@ dependencies:
   google_maps_webservice:
     git:
       url: https://github.com/goviral-ma/google_maps_webservice.git
-      ref: 2aac9a4438aebe4a10695cafbc3caa214a6516b9
-  http: ^0.12.2
+      ref: f78ab2d4b38d5e5b6f8aea29c3c3d57bb4973055
+  http: ^0.13.0
   rxdart: ^0.25.0
 
 dev_dependencies:
