@@ -14,7 +14,7 @@ dependencies:
   google_api_headers: 
     git:
       url: https://github.com/goviral-ma/google_api_headers.git
-      ref: 9e22b565c800f1c52808c5093859f1ac14443047
+      ref: 575a028e377432dbb535741e841b540ed1363283
   
   google_maps_webservice: ^0.0.19
   http: ">=0.11.0 <1.0.0"
