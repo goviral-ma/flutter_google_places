@@ -17,7 +17,7 @@ dependencies:
       url: https://github.com/goviral-ma/google_maps_webservice.git
       ref: 2aac9a4438aebe4a10695cafbc3caa214a6516b9
   http: ^0.12.2
-  rxdart: ^0.26.0-nullsafety.1
+  rxdart: ^0.25.0
 
 dev_dependencies:
   flutter_test:
